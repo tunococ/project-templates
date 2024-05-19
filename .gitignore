@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# ctags
+tags
+
+# vscode
+.vscode/
